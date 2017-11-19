@@ -14,4 +14,4 @@ A place to include any other types of information that you'd like to include abo
 
 [email@domain.com](mailto:email@domain.com)
 
-![alt text](RainyRhymo.github.io/images/Rhymo.png)
+![Rhymo](RainyRhymo.github.io/images/Rhymo.png "Rhymo")
