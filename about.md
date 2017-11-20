@@ -16,7 +16,7 @@ I am a bit anxious about this project, in part because I don't want to seem pres
 
 ### What do I write?
 
-A place to include any other types of information that you'd like to include about yourself.
+While I refer to this website as a _blog_, I'm really just using it to host anything I might want to write. That does include informal, sloppy posts about "my life" and other boring things, but I will also be writing formal critiques and analyses of a variety of media, short and long-form fiction, and probably other formats which I have yet to decide upon.
 
 ### Contact me
 
