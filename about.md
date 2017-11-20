@@ -7,7 +7,7 @@ permalink: /about/
 
 ### Hi!
 **My name is Ryan Moran,**
-but more often than not you'll see me use my web alias, __*"Rhymo."*
+but more often than not you'll see me use my web alias, __*"Rhymo."*__
 
 I've created this blog for the purpose of giving me a creative outlet where I can share my ideas with others pretty directly. I'm sure you can relate to the feeling of overflowing with ideas or emotions without a satisfying avenue for expression; it is that feeling precisely which has spurred me to set up this website. 
 
