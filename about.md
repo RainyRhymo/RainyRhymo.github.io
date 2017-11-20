@@ -1,6 +1,6 @@
 ---
-layout: page
-title: About Me
+layout: inform
+title: About
 permalink: /about/
 ---
 ![Rhymo](/images/Rhymo.png "Rhymo")
