@@ -2,22 +2,17 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
-![Rhymo](/images/Rhymo.png "Rhymo")
+![Rhymo]({{site.baseurl}}/Rhymo.png)
 
-### Hi!
-**My name is Ryan Moran,**
-but more often than not you'll see me use my web alias, __*Rhymo.*__
+## Hi!
+My name is **Ryan Moran**,
+but more often than not you'll see me use my web alias, __*Rhymo.*__ I am an aspiring artist and storyteller, and my main interests lie in game design/development.
 
-I've created this blog as a creative outlet where I can share my ideas with others directly. I'm sure you can relate to the feeling of overflowing with ideas or emotions without a satisfying avenue for expression; it is that feeling precisely which has spurred me to set up this website. 
-
-I am a bit anxious about this project, in part because I don't want to seem presumptuous about the quality or value of my ideas. I'm not putting the stuff I write online because I think it deserves to be read; it is just here in the case that anyone wants to read it. I will work hard to present my ideas in such a way that you may enjoy them or find truth in them, but this is more about expressing myself than it is an attempt to appeal to anyone. 
-
-
-### What do I write?
-
-While I refer to this website as a _blog_, I'm really just using it to host anything I might want to write. That does include informal, sloppy posts about "my life" and other boring things, but I will also be writing formal critiques and analyses of a variety of media, short and long-form fiction, and probably other formats which I have yet to decide upon.
+I've established this blog with a few purposes in mind. I'd like it to act as a portfolio for my art and writing, a devlog for projects I'm working on, and a home for any other creative endeavors I'd like to share. Oh, and I'll probably make more typical informal blog posts every now and then in which I talk about things that have happened to me or general thoughts of mine.
 
 ### Contact me
 
 [rpmest@protonmail.com](mailto:rpmest@protonmail.com)
+[twitter.com/rpmest]
