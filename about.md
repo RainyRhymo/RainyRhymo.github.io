@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 published: true
 ---
-(![Rhymo.png]({{site.baseurl}}/images/Rhymo.png)
+![Rhymo.png](/images/Rhymo.png)
 
 
 ## Hi!
