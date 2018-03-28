@@ -16,26 +16,23 @@
   </head>
 
   <body>
-    <div class="wrapper-masthead">
-      <div class="container">
-        <header class="masthead clearfix">
-
+    <header class="page-head">
+      <div class="wrapper">
           <div class="site-info">
             <a href = "{{ site.baseurl }}">
               <img draggable = false src="{{ sit.baseurl }}/images/BlogHeaderSmall.png">
             </a>
           </div>
 
-          <nav>
+          <nav class = "site-nav">
             <a href="{{ site.baseurl }}/">Blog</a>
             <a href="{{ site.baseurl }}/about">About</a>
             <a href="{{ site.baseur1 }}/fiction">Fiction</a>
             <a href="{{ site.baseur1 }}/reviews">Reviews/Critiques</a>
             
           </nav>
-        </header>
       </div>
-    </div>
+    </header>
 
     <div id="main" role="main" class="container">
       {{ content }}
