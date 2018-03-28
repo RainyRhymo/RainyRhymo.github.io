@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 published: true
 ---
-![Rhymo](Rainyrhymo.github.io/images/Rhymo.png)
+(![Rhymo.png]({{site.baseurl}}/images/Rhymo.png)
+
 
 ## Hi!
 My name is **Ryan Moran**,
