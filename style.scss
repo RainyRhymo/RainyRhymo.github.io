@@ -18,7 +18,7 @@ html {
 }
 
 body {
-  background: #B0C4DE;
+  background: $white;
   font: 18px/1.4;
   font-family: 'Raleway', sans-serif;
   color: $darkGray;
@@ -29,7 +29,6 @@ body {
   max-width: 50%;
   padding: 0 10px;
   width: 100%;
-  background: $white;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -159,6 +158,7 @@ img {
 .masthead {
   padding: 20px 0;
   border-bottom: 1px solid #a5bcd9;
+  background: #B0C4DE;
 
   @include mobile {
     text-align: center;
