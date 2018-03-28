@@ -6,7 +6,7 @@
 name: "Rhymo's Zone"
 
 # Site header picture
-header:  RainyRhymo.github.io/images/blogheader.png 
+header:  "RainyRhymo.github.io/images/blogheader.png"
 
 # Short bio or description (displayed in the header)
 description: "A Conceptual Dumping Ground"
