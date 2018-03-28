@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 published: true
 ---
-![Rhymo]({{site.baseurl}}/rainyrhymo.github.io/images/Rhymo.png)
+![Rhymo]({{site.baseurl}}/Rainyrhymo.github.io/images/Rhymo.png)
 
 ## Hi!
 My name is **Ryan Moran**,
@@ -15,4 +15,4 @@ I've established this blog with a few purposes in mind. I'd like it to act as a 
 ### Contact me
 
 [rpmest@protonmail.com](mailto:rpmest@protonmail.com)
-[twitter.com/rpmest]
+[Twitter Account](twitter.com/rpmest)
