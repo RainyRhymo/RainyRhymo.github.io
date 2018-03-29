@@ -164,6 +164,19 @@ img {
     text-align: center;
   }
 }
+
+.site-avatar {
+  float: left;
+  width: 70px;
+  height: 70px;
+  margin-right: 15px;
+
+  @include mobile {
+    float: none;
+    display: block;
+    margin: 0 auto;
+}
+	
   img {
     border-radius: 5px;
   }
@@ -233,6 +246,7 @@ nav {
 .posts > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid #a5bcd9;
+  background: $white
 }
 
 .posts > .post:last-child {
