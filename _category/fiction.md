@@ -1,4 +1,4 @@
 ---
-tag: fiction
+category: fiction
 permalink: "/category/fiction"
 ---
