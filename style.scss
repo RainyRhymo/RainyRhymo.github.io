@@ -255,7 +255,8 @@ nav {
 .post {
   margin: auto 20 auto 20;
   background: $white;
-  border-radius: 25px;
+  background-size: auto+10;
+  border-radius: 10px;
 	
   blockquote {
     margin: 1.8em .8em;
