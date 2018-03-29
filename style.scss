@@ -39,8 +39,6 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.7;
   margin: 1em 0 15px;
   padding: 0;
-  width: 80%;
-  length: 80%;
   @include mobile {
     line-height: 1.4;
   }
@@ -68,8 +66,6 @@ h4 {
 
 p {
   margin: 15px 0;
- width: 80%;
-  length: 80%;
 }
 
 a {
@@ -257,6 +253,7 @@ nav {
 }
 
 .post {
+    margin: auto 20 auto 20;
   blockquote {
     margin: 1.8em .8em;
     border-left: 2px solid #a5bcd9;
