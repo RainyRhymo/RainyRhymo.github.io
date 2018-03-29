@@ -246,8 +246,6 @@ nav {
 .posts > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid #a5bcd9;
-  background: $white;
-  border-radius: 25px;
 }
 
 .posts > .post:last-child {
@@ -256,8 +254,6 @@ nav {
 }
 
 .post {
-  margin: auto 30;
-	
   blockquote {
     margin: 1.8em .8em;
     border-left: 2px solid #a5bcd9;
